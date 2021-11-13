@@ -2,7 +2,7 @@
 
 1. Instalar requirements.txt
 
-### Correr PIA.py
+### Correr PCPIA.py
 
 1. Identificar que herramienta usar
 2. Dependiendo de la herramienta, la opcion a utilizar: metadata, cipher, nmap, hunter
@@ -26,6 +26,7 @@
 
 ### Modulo Nmap (ScanActive/ScanNetwork)
 
-1. Saber tu ip (puedes visitar ifconfig.me para identificarla)
-2. Dar un inicio y un fin para escanear un rango de puertos
-3. Correr python PCPIA.py -opt SCANNETWORK -ip ___IpDelEquipo___ -pin ___PuertoInicial___ -pfi ___PuertoFinal___ o python PCPIA.py -opt SCANACTIVE
+1. Determinar 
+2. Si no tienes una ip, puedes usar la herramienta SCANACTIVE (-opt SCANACTIVE) para verificar las ip que responden
+3. Establecer un rango de puertos
+4. Inicializar python PCPIA.py -opt SCANNETWORK -ip IpDelEquipo -pin PuertoInicial -pfi PuertoFinal.
