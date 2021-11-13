@@ -8,7 +8,7 @@
 2. Dependiendo de la herramienta, la opcion a utilizar: metadata, cipher, nmap, hunter
 3. Correr python PCPIA.py -opt ___herramienta___
 
-### Modulo Metadata
+### Modulo Metadata/WebScrapping 
 
 1. Identificar la página web de la cuál obtendremos las imágenes a escanear
 2. Correr python PCPIA.py -opt metadata -link ___Url___
