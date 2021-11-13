@@ -1,0 +1,3 @@
+ScanActivePort : Escanea las subredes que tienen respuesta
+
+ScanNetwork : Escanea el rango de puertos de una subred especificada
