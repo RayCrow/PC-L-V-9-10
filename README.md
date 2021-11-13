@@ -29,4 +29,4 @@
 1. Determinar 
 2. Si no tienes una ip, puedes usar la herramienta SCANACTIVE (-opt SCANACTIVE) para verificar las ip que responden
 3. Establecer un rango de puertos
-4. Inicializar python PCPIA.py -opt SCANNETWORK -ip IpDelEquipo -pin PuertoInicial -pfi PuertoFinal.
+4. Inicializar python PCPIA.py -opt ___SCANNETWORK___ -ip ___IpDelEquipo___ -pin ___PuertoInicial___ -pfi ___PuertoFinal___
