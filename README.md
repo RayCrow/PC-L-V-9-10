@@ -24,7 +24,7 @@
 1. Tener tu api de hunter.io
 2. Correr python PCPIA.py -opt hunter -a ___apikey___ -c ___compañia___ -n ___numero de correos___
 
-### Modulo Nmap
+### Modulo Nmap (ScanActive/ScanNetwork)
 
 1. Saber tu ip (puedes visitar ifconfig.me para identificarla)
 2. Dar un inicio y un fin para escanear un rango de puertos
